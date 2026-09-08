@@ -140,9 +140,9 @@ Every project is an opportunity to understand a problem better, write better sof
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asadullah\&show_icons=true\&hide_border=true\&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadullahsikandar7-web\&show_icons=true\&hide_border=true\&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahsikandar7-web\&layout=compact\&hide_border=true)
 
 </div>
 
